@@ -1,4 +1,4 @@
-dataset <- read.csv('50_Startups.csv')
+dataset <- read.csv('xyz.csv')
 dataset <- read.csv(file.choose())
 
 # 
